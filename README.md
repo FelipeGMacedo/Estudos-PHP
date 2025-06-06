@@ -34,5 +34,5 @@ Solicita uma temperatura em Celsius e a converte para Fahrenheit e Kelvin.
 - Terminal compatível com entrada de dados pelo `readline()`
 
 ## Contribuição
-Sinta-se à vontade para sugerir melhorias ou adicionar novos exercícios!
+Sinta-se à vontade para sugerir melhorias ou adicionar novos exercícios! 
 
